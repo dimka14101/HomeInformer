@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="updateTime">
+        <item>@string/Sttg1Minute</item>
+        <item>@string/Sttg2Minutes</item>
+        <item>@string/Sttg5Minutes</item>
+        <item>@string/Sttg10Minutes</item>
+        <item>@string/Sttg30Minutes</item>
+        <item>@string/Sttg1Hour</item>
+    </string-array>
+
+
+    <string-array name="cleaningPeriod">
+        <item>@string/Sttg1Day</item>
+        <item>@string/Sttg1Week</item>
+        <item>@string/Sttg10Days</item>
+        <item>@string/Sttg15Days</item>
+        <item>@string/Sttg1Month</item>
+        <item>@string/Sttg6Months</item>
+        <item>@string/Sttg1Year</item>
+    </string-array>
+
+
+    <string-array name="languageList">
+        <item>English</item>
+        <item>Українська</item>
+        <item>Русский</item>
+        <item>Germany</item>
+        <item>Polish</item>
+        <item>Czech</item>
+    </string-array>
+
+    <string-array name="statisticList">
+        <item>@string/StatTemp1Name</item>
+        <item>@string/StatTemp2Name</item>
+        <item>@string/StatHumidityName</item>
+        <item>@string/StatLuminosityName</item>
+        <item>@string/StatPressureName</item>
+        <item>@string/StatAltitudeName</item>
+        <item>@string/StatAllDataName</item>
+    </string-array>
+
+</resources>

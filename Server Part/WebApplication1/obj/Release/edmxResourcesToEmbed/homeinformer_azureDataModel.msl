@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="homeinformer_azureModelStoreContainer" CdmEntityContainer="homeinformer_azureEntities">
+    <EntitySetMapping Name="details">
+      <EntityTypeMapping TypeName="homeinformer_azureModel.details">
+        <MappingFragment StoreEntitySet="details">
+          <ScalarProperty Name="altitude" ColumnName="altitude" />
+          <ScalarProperty Name="pressure" ColumnName="pressure" />
+          <ScalarProperty Name="detailsId" ColumnName="detailsId" />
+          <ScalarProperty Name="temperature1" ColumnName="temperature1" />
+          <ScalarProperty Name="temperature2" ColumnName="temperature2" />
+          <ScalarProperty Name="humidity" ColumnName="humidity" />
+          <ScalarProperty Name="luminosity" ColumnName="luminosity" />
+          <ScalarProperty Name="datetime" ColumnName="datetime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="archive">
+      <EntityTypeMapping TypeName="homeinformer_azureModel.archive">
+        <MappingFragment StoreEntitySet="archive">
+          <ScalarProperty Name="timeperiodA" ColumnName="timeperiodA" />
+          <ScalarProperty Name="altitudeA" ColumnName="altitudeA" />
+          <ScalarProperty Name="pressureA" ColumnName="pressureA" />
+          <ScalarProperty Name="luminosityA" ColumnName="luminosityA" />
+          <ScalarProperty Name="humiditiA" ColumnName="humiditiA" />
+          <ScalarProperty Name="temp2A" ColumnName="temp2A" />
+          <ScalarProperty Name="temp1A" ColumnName="temp1A" />
+          <ScalarProperty Name="detailsIdA" ColumnName="detailsIdA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="settings">
+      <EntityTypeMapping TypeName="homeinformer_azureModel.settings">
+        <MappingFragment StoreEntitySet="settings">
+          <ScalarProperty Name="value" ColumnName="value" />
+          <ScalarProperty Name="describe" ColumnName="describe" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

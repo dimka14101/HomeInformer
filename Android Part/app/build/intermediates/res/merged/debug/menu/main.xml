@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+    tools:contex=".MainActivity">
+
+    <group
+        android:icon="@drawable/ic_more_vert_black_24dp"
+        android:orderInCategory="101"
+        app:showAsAction="always"
+       >
+        <item android:title="@string/StatActivName"
+            android:id="@+id/statistic_cart"
+          />
+        <item android:title="@string/HistoryActivName"
+            android:id="@+id/history_cart"
+            />
+        <item android:title="@string/SttgActivName"
+            android:id="@+id/setting_cart"
+            />
+        <item android:title="@string/AboutActivName"
+            android:id="@+id/about_cart"
+            />
+        <item android:title="@string/SignOutActivName"
+            android:id="@+id/signout_cart"
+            />
+    </group>
+
+
+</menu>
+

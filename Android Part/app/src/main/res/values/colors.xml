@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EEBF70</color>
+    <color name="colorPrimaryDark">#5D1694</color>
+    <color name="colorAccent">#A870DF</color>
+
+
+    //statistic colors(from buildall methods)
+    //P.S. Charts can not get colors from here? color exist in code in hex format
+    <color name="temp1Color">#ffff00</color>
+    <color name="temp2Color">#aa00ff</color>
+    <color name="humidColor">#1976d2</color>
+    <color name="luminColor">#00c853</color>
+    <color name="presColor">#f44336</color>
+    <color name="alttColor">#5d4037</color>
+
+</resources>

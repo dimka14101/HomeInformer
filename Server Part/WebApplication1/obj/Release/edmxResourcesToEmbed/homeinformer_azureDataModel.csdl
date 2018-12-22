@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="homeinformer_azureModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="details">
+    <Key>
+      <PropertyRef Name="detailsId" />
+    </Key>
+    <Property Name="detailsId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="temperature1" Type="Double" Nullable="false" />
+    <Property Name="temperature2" Type="Double" Nullable="false" />
+    <Property Name="humidity" Type="Double" Nullable="false" />
+    <Property Name="luminosity" Type="Double" Nullable="false" />
+    <Property Name="datetime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="pressure" Type="Double" Nullable="false" />
+    <Property Name="altitude" Type="Double" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="homeinformer_azureEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="details" EntityType="Self.details" />
+    <EntitySet Name="archive" EntityType="homeinformer_azureModel.archive" />
+    <EntitySet Name="settings" EntityType="homeinformer_azureModel.settings" />
+  </EntityContainer>
+  <EntityType Name="archive">
+    <Key>
+      <PropertyRef Name="detailsIdA" />
+    </Key>
+    <Property Name="detailsIdA" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="temp1A" Type="Double" Nullable="false" />
+    <Property Name="temp2A" Type="Double" Nullable="false" />
+    <Property Name="humiditiA" Type="Double" Nullable="false" />
+    <Property Name="luminosityA" Type="Double" Nullable="false" />
+    <Property Name="pressureA" Type="Double" Nullable="false" />
+    <Property Name="altitudeA" Type="Double" Nullable="false" />
+    <Property Name="timeperiodA" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="settings">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="describe" Type="String" Nullable="false" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="value" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+</Schema>

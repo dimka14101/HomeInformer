@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_nulp_icon.png",
+        "source": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\mipmap-mdpi\\ic_nulp_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_nulp_icon.png",
+        "source": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\mipmap-mdpi\\ic_nulp_icon.png"
+    },
+    {
+        "merged": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\background.png",
+        "source": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\mipmap-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ie_online.png",
+        "source": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\mipmap-mdpi\\ie_online.png"
+    },
+    {
+        "merged": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\fire_icon.png",
+        "source": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\mipmap-mdpi\\fire_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ie_online.png",
+        "source": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\mipmap-mdpi\\ie_online.png"
+    },
+    {
+        "merged": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\background.png",
+        "source": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\mipmap-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ie_offline.png",
+        "source": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\mipmap-mdpi\\ie_offline.png"
+    },
+    {
+        "merged": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ie_offline.png",
+        "source": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\mipmap-mdpi\\ie_offline.png"
+    },
+    {
+        "merged": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\fire_icon.png",
+        "source": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\mipmap-mdpi\\fire_icon.png"
+    }
+]

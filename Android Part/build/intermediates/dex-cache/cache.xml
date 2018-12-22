@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\28241ad60167cc2f1e7c2a208d601f7df25d19cb\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_899a9eadf5059304b3d88a8f0fae64bd7930712b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\edf0c14af2ee944591c5616003463a0d9e986ead\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\classes_e018a15560717e8874ab5af5cf31efa574906aa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\ba914c3fbdcc16716893087b187bd1d47dd4e4d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\classes_93404cb417ad0f4be7575ffcd580428635e43e5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\9f62f2fb840553bc2265e5aeb9f4664cf658dbba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\classes_7189b9ed1b2a41ee0e232f490e7febb30ba5baf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\2289f0bf27edce5c91cd0ef2a6f4e30aed3b8793\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\classes_9cf2cda6f7727ba470a8526ce87955d5d2563989.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\b224488a57f5aa564cd03247b62598ae3e2887e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\classes_85c1b92a29fe4d33497bb87678d8d8cb53a7456d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\2289f0bf27edce5c91cd0ef2a6f4e30aed3b8793\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2fb753e723c3d3e5e33d5612fb4b3a898629650a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\converter-gson-2.2.0_eb17b14d0151aa98043a96896a3367061ec455be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\28241ad60167cc2f1e7c2a208d601f7df25d19cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\classes_fc43b4bc89b75645112b75d4e865bea85e0c9c7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.0\73ccf14fba19ce2190297ac801579f3a85f1c0e8\logging-interceptor-3.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73ccf14fba19ce2190297ac801579f3a85f1c0e8">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.4.0_720c5bc0a37d712b3ac553b98b96dec152091ebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\classes_a6616ec7a0881d196dd6bd186271a94e098d73bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\okio-1.11.0_8ee29aa8f5f7e509cb2f4f95393a7f6295e2a2d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\350bb5d4590488a261035a6f60f58278721337ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\classes_08a9bfab75efcd09f47f312ac264d89f15dccb22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_c03d85be44b2a50dd3e1112f47c848b4f52ff92c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\e0f043051d3413d6b44883b1f56060aacee4b597\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\classes_49a93ca762941e92d228604d360a376caa22e85e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.8\cf615176cd1177edf71d3c9605f8dc148fede6be\otto-1.3.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\otto-1.3.8_109cf27b5d10e2e4f44b4aaf5c82e8bc3ae25676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_313e84d116f00532257ec8df31905e9d5b16ed9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\e4eb55904dd446b180b8bd4701be365894332499\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\classes_99e4350a0f2d1e95a504d475f12cb095a910b235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\c1080d5bb79a62013bca4034435590826962158d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\classes_7fdd88a3fd3adb766fa398239c556b27dd5214d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.0.9\4244e2998018aa492389e8e30a77b7987959608e\MPAndroidChart-v2.0.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4244e2998018aa492389e8e30a77b7987959608e">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.0.9_07b5e9f5ac3d33298e839b9033109e75b3f61219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_d65f8fba29cb5379925d5d5b46350164bf848274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\e0f043051d3413d6b44883b1f56060aacee4b597\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_eafd0dd2461cae21e8926a979d90af17a7db3953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\gson-2.7_2a24e83a3dcba664338214e3863535b11435801c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\9f62f2fb840553bc2265e5aeb9f4664cf658dbba\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2d29b8407221157e8efd1e7a168feebce7a1b81e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\e4eb55904dd446b180b8bd4701be365894332499\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a605b9e6315c500818c4611c8a1970ccbf4b0fe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dmytro\.android\build-cache\0cf61fc8ede5d76e1e6cb3952e7cc4a097a1b18f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\Dmytro\Desktop\MyApplication+Retrofit(18.4.17)\app\build\intermediates\pre-dexed\debug\classes_fbf770b1b674b0ab6ec44de7c712a2dae1ac4bc6.jar" />
+    </item>
+
+</items>

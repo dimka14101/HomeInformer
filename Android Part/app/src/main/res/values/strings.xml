@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    //default values
+    <string name="DialogOkBtn">Гаразд</string>
+    <string name="DialogCancelBtn">Скасувати</string>
+
+    //setting activiti
+    <string name="SttgActivName">Налаштування</string>
+    <string name="SttgBTNClearDB">ЗВІЛЬНИТИ МІСЦЕ</string>
+    <string name="SttgTVDataArchivePropos">Або ви можете архівувати дані за період:</string>
+    <string name="SttgTVDataCleaningPeriod">Період очищення:</string>
+    <string name="SttgTVDataUpdateTime">Частота оновлення:</string>
+    <string name="SttgTVFreeSpaceDB">Зайнято у базі даних:</string>
+    <string name="SttgTVInterfaceLNG">Мова інтерфейсу:</string>
+    <string name="SttgTVCriticTemp">Критична температура:</string>
+    <string name="Sttg1Minute">1 хв.</string>
+    <string name="Sttg2Minutes">2 хв.</string>
+    <string name="Sttg5Minutes">5 хв.</string>
+    <string name="Sttg10Minutes">10 хв.</string>
+    <string name="Sttg30Minutes">30 хв.</string>
+    <string name="Sttg1Hour">1 год.</string>
+    <string name="Sttg1Day">1 день</string>
+    <string name="Sttg10Days">10 днів</string>
+    <string name="Sttg15Days">15 днів</string>
+    <string name="Sttg1Week">1 тиждень</string>
+    <string name="Sttg1Month">1 місяць</string>
+    <string name="Sttg6Months">6 місяців</string>
+    <string name="Sttg1Year">1 рік</string>
+    <string name="SttgTVData">Передача даних:</string>
+
+    //delete dialog
+    <string name="SttgDltDataAlrtMsg">Дані буде видалено назавжди, без архівації.</string>
+    <string name="SttgDltDataMsgTitle">Видалення за період: </string>
+    <string name="SttgDltDataMsgTitlePeriod"> день(-ів)</string>
+    //archive dialog
+    <string name="SttgArchDataAlrtMsg">Дані будуть архівовані та очищені з історії.</string>
+    <string name="SttgArchDataMsgTitle">Архівування за період: </string>
+    <string name="SttgArchDataMsgTitlePeriod"> день(-ів)</string>
+    //resetall dialog
+    <string name="SttgResetAllAlrtMsg">Налаштування будуть встановлені за замовчуванням.</string>
+    <string name="SttgResetAllMsgTitle">Скинути Налаштування? </string>
+
+
+    //History Activity
+    <string name="HistoryActivName">Історія</string>
+    <string name="HistTab1Name">УСІ ДАНІ</string>
+    <string name="HistTab2Name">АРХІВ</string>
+    <string name="HistoryTablesHeader">Темп1 | Темп2 | Вол. | Освітл | Тиск | Висота</string>
+    <string name="HistoryDate">Дата:</string>
+    <string name="HistoryPeriod">Період:</string>
+    <string name="HistTab1WifiMsg">Wifi мережа. Завантаження історії</string>
+    <string name="HistTab1SimMsg">Лімітована мережа.Дозволено завантаження. Завантаження історії</string>
+    <string name="HistTab1LimConnMsg">Проблема з\'єднання. Історію завантажено з файлу</string>
+    <string name="HistTab1WarningMsg">З\'єднано з інтернетом. Лімітовані з\'єднання не дозволені.Історію не завантажено. Змініть налаштування.</string>
+    <string name="HistTab2WifiMsg">Wifi мережа. Завантаження архіву</string>
+    <string name="HistTab2SimMsg">Лімітована мережа.Дозволено завантаження. Завантаження архіву</string>
+    <string name="HistTab2LimConnMsg">Проблема з\'єднання. Архів завантажено з файлу</string>
+    <string name="HistTab2WarningMsg">З\'єднано з інтернетом. Лімітовані з\'єднання не дозволені.Архів не завантажено. Змініть налаштування.</string>
+
+    //MAIN ACTIVITY
+    <string name="MainTVTemp1">Температура 1:</string>
+    <string name="MainTVTemp2">Температура 2:</string>
+    <string name="MainTVHumidity">Вологість:</string>
+    <string name="MainTVLuminosity">Освітленість:</string>
+    <string name="MainTVPressure">Тиск:</string>
+
+    <string name="MainTVAltitude">Висота:</string>
+    <string name="MainTVDateTime">Дата:</string>
+    <string name="MainTVConnection">З\'єднано</string>
+    <string name="MainTVNOConnection">Немає з\'єднання</string>
+    <string name="MainBTNReceiveData">Отримати дані</string>
+    <string name="MainBTNStopReceiveData">Стоп</string>
+    <string name="MainTVDataUpdatePeriod">Період оновлення даних:</string>
+    <string name="MainMinutes">хв.</string>
+    <string name="MainToastNoInternet">Відсутнє зєднання з інтернетом!</string>
+
+    //statistic activity
+    <string name="AboutActivName">Про програму</string>
+
+
+    //statistic activity
+    <string name="StatActivName">Статистика</string>
+    <string name="StatArchRadBrnName">Архів</string>
+    <string name="StatHistRadBrnName">Історія</string>
+    <string name="StatSaveChartTitle">Зберегти графік...</string>
+    <string name="StatSaveChartMsg">Введіть ім\'я графіка:</string>
+    <string name="StatTemp1Name">Температура1</string>
+    <string name="StatTemp2Name">Температура2</string>
+    <string name="StatHumidityName">Вологість</string>
+    <string name="StatLuminosityName">Освітленість</string>
+    <string name="StatPressureName">Тиск</string>
+    <string name="StatAltitudeName">Висота</string>
+    <string name="StatAllDataName">Всі показники</string>
+    <string name="StatCriticalTemp">Критична температура</string>
+    <string name="StatSaveChartToGallery">Зберегти у галерею</string>
+    //chart values name
+    <string name="StatTemp1FullChart">Темп1</string>
+    <string name="StatTemp2FullChart">Темп2</string>
+    <string name="StatHumidityFullChart">Вол.</string>
+    <string name="StatLuminosityFullChart">Освітл.</string>
+    <string name="StatPressureFullChart">Тиск</string>
+    <string name="StatAltitudeFullChart">Висота</string>
+
+    //service strings
+    <string name="ServiceAlert">ТРИВОГА!!!</string>
+    <string name="ServiceContentText">"Температура у кімнаті вища за "</string>
+    <string name="ServiceSubText">Натисність для перегляду деталей про тривогу.</string>
+
+    //Login activity
+    <string name="SignOutActivName">Вихід</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль </string>
+    <string name="prompt_repeat_password">Повторіть пароль </string>
+    <string name="action_sign_in">Вхід</string>
+    <string name="action_sign_in_short">Вхід</string>
+    <string name="error_invalid_email">Цей  email невірний</string>
+    <string name="error_invalid_password">Цей пароль занадто короткий</string>
+    <string name="error_incorrect_password">Цей пароль некоректний</string>
+    <string name="error_field_required">Це поле обов\'язкове</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_login">HomeInformer</string>
+
+    //Register activity
+    <string name="title_activity_register">Реєстрація</string>
+
+</resources>

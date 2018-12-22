@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:contex=".StatisticActivity">
+
+    <group
+        android:icon="@drawable/ic_more_vert_black_24dp"
+        android:orderInCategory="101"
+        app:showAsAction="always" >
+        <item android:title="@string/StatSaveChartToGallery"
+            android:id="@+id/saveimage_cart" />
+
+    </group>
+
+
+</menu>

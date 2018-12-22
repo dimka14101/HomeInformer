@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="@drawable/ic_back"
+    tools:context="com.example.dmytro.myapplication.SettingActivity">
+
+    <ScrollView
+        android:id="@+id/main_form"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:id="@+id/activity_setting"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp">
+
+        <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+    </android.support.design.widget.AppBarLayout>
+
+    <TextView
+        android:text="@string/SttgTVDataUpdateTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewDataUpdate"
+        android:textSize="24sp"
+        android:textStyle="normal|bold"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="13dp"
+        android:textColor="@color/colorAccent"/>
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinnerDataUpdate"
+        android:layout_alignBottom="@+id/textViewDataUpdate"
+        android:layout_toEndOf="@+id/textViewDataUpdate"
+        android:layout_alignTop="@+id/textViewDataUpdate"
+        />
+
+    <TextView
+        android:text="@string/SttgTVDataCleaningPeriod"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewDataDelete"
+        android:textSize="24sp"
+        android:textStyle="normal|bold"
+        android:layout_below="@+id/textViewDataUpdate"
+        android:layout_alignParentStart="true"
+        android:textColor="@color/colorAccent"/>
+
+    <TextView
+        android:text="@string/SttgTVDataArchivePropos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewArchivePropos"
+        android:layout_marginStart="20dp"
+        android:layout_below="@+id/textViewDataDelete"
+        android:layout_alignParentStart="true"
+        android:textColor="@color/colorAccent"
+        android:textStyle="normal|italic" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinnerDataDelete"
+        android:layout_alignBottom="@+id/textViewDataDelete"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@+id/textViewDataDelete"
+        android:layout_below="@+id/textViewDataUpdate" />
+
+    <TextView
+        android:text="@string/SttgTVFreeSpaceDB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewFreeSpaceDB"
+        android:textSize="24sp"
+        android:textStyle="normal|bold"
+        android:layout_below="@+id/textViewArchivePropos"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="32dp"
+        android:textColor="@color/colorAccent"/>
+
+            <TextView
+        android:text="@string/SttgTVInterfaceLNG"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewLanguage"
+        android:textSize="24sp"
+        android:textStyle="normal|bold"
+        android:layout_below="@+id/buttonClearDB"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="27dp"
+        android:textColor="@color/colorAccent"/>
+
+            <TextView
+        android:text="00/32mb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/valueFreeSpace"
+        android:textSize="24sp"
+        android:textStyle="normal|italic"
+        android:layout_alignBaseline="@+id/textViewFreeSpaceDB"
+        android:layout_alignBottom="@+id/textViewFreeSpaceDB"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="17dp" />
+
+    <TextView
+        android:text="@string/SttgTVCriticTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewMaxTemp"
+        android:textSize="24sp"
+        android:textStyle="normal|bold"
+        android:layout_below="@+id/textViewLanguage"
+        android:layout_alignParentStart="true"
+        android:textColor="@color/colorAccent"/>
+
+    <SeekBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewMaxTemp"
+        android:id="@+id/seekBar"
+        android:layout_alignEnd="@+id/TV_CriticTemp"
+        android:layout_alignStart="@+id/textViewArchivePropos"
+        android:scrollbarSize="18dp"
+        android:max="75"
+       />
+
+    <TextView
+        android:text="00.0℃"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/TV_CriticTemp"
+        android:textSize="24sp"
+        android:layout_alignBaseline="@+id/textViewMaxTemp"
+        android:layout_alignBottom="@+id/textViewMaxTemp"
+        android:layout_alignEnd="@+id/valueFreeSpace" />
+
+    <Button
+        android:text="@string/SttgBTNClearDB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonClearDB"
+        android:textColor="@color/colorAccent"
+        android:background="@color/colorPrimary"
+        android:elevation="0dp"
+        android:layout_below="@+id/valueFreeSpace"
+        android:layout_alignEnd="@+id/valueFreeSpace"
+        android:layout_toEndOf="@+id/textViewDataDelete" />
+
+            <Button
+                android:text="Скинути все"
+                android:layout_width="wrap_content"
+                android:layout_below="@+id/seekBar"
+                android:id="@+id/resetAllBtn"
+                android:textColor="@color/colorAccent"
+                android:background="@color/colorPrimary"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/seekBar"
+                android:layout_marginTop="18dp"
+                android:layout_alignStart="@+id/buttonClearDB" />
+            <Button
+                android:text="Змінити пароль"
+                android:layout_width="wrap_content"
+                android:layout_below="@+id/resetAllBtn"
+                android:id="@+id/changePasswordBtn"
+                android:textColor="@color/colorAccent"
+                android:background="@color/colorPrimary"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/seekBar"
+                android:layout_marginTop="18dp"
+                android:layout_alignStart="@+id/buttonClearDB" />
+
+            <TextView
+                android:text="@string/SttgTVData"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textViewData"
+                android:textSize="24sp"
+                android:textStyle="normal|bold"
+                android:textColor="@color/colorAccent"
+                android:layout_below="@+id/buttonClearDB"
+                android:layout_alignParentStart="true" />
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/spinnerLanguageChoose"
+                android:layout_above="@+id/textViewMaxTemp"
+                android:layout_alignStart="@+id/buttonClearDB"
+                android:layout_alignEnd="@+id/TV_CriticTemp" />
+
+            <ToggleButton
+                android:text="ToggleButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/dataTypeToggleButton"
+                android:layout_alignEnd="@+id/TV_CriticTemp"
+                android:layout_alignStart="@+id/buttonClearDB"
+                android:textOff="only Wifi"
+                android:textOn="Wifi+SimCard"
+                android:gravity="top|center"
+                android:layout_below="@+id/buttonClearDB"
+                android:layout_above="@+id/spinnerLanguageChoose"
+                android:autoText="false" />
+
+        </RelativeLayout>
+        </ScrollView>
+</LinearLayout>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="homeinformerModel1StoreContainer" CdmEntityContainer="homeinformerEntities4">
+    <EntitySetMapping Name="details">
+      <EntityTypeMapping TypeName="homeinformerModel1.details">
+        <MappingFragment StoreEntitySet="details">
+          <ScalarProperty Name="detailsId" ColumnName="detailsId" />
+          <ScalarProperty Name="temperature1" ColumnName="temperature1" />
+          <ScalarProperty Name="temperature2" ColumnName="temperature2" />
+          <ScalarProperty Name="humidity" ColumnName="humidity" />
+          <ScalarProperty Name="luminosity" ColumnName="luminosity" />
+          <ScalarProperty Name="datetime" ColumnName="datetime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

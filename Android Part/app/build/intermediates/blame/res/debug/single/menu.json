@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\statistic_menu.xml",
+        "source": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\menu\\statistic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_history.xml",
+        "source": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\menu\\menu_history.xml"
+    },
+    {
+        "merged": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_history.xml",
+        "source": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\menu\\menu_history.xml"
+    },
+    {
+        "merged": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\statistic_menu.xml",
+        "source": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\menu\\statistic_menu.xml"
+    }
+]

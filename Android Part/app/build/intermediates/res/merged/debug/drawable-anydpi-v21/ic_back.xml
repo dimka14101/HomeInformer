@@ -1,0 +1,7 @@
+<vector android:autoMirrored="true" android:height="1417dp"
+    android:viewportHeight="1417" android:viewportWidth="906"
+    android:width="906dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#f8f7d1" android:name="Фігура 4" android:pathData="m93.8 29.3 226.5 739 418.9 -313.6 -645.4 -425.4"/>
+    <path android:fillColor="#ebe677" android:name="Прямокутник 2" android:pathData="m-233.1 -248 517.4 -485.3 648.3 704.2 -517.4 485.3 -648.3 -704.2z"/>
+    <path android:fillColor="#eebf70" android:name="Прямокутник 1" android:pathData="m109.3 -244.6 405.4 -294.3 391.3 538.9 -405.4 294.3 -391.3 -538.9z"/>
+</vector>

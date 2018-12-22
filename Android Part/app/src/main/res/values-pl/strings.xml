@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //setting activiti
+    <string name="SttgActivName">Settings</string>
+    <string name="SttgTVDataUpdateTime">Refresh rate:</string>
+    <string name="Sttg1Minute">1 хв.</string>
+    <string name="Sttg2Minutes">2 хв.</string>
+    <string name="Sttg5Minutes">5 хв.</string>
+    <string name="Sttg10Minutes">10 хв.</string>
+    <string name="Sttg30Minutes">30 хв.</string>
+    <string name="Sttg1Hour">1 год.</string>
+    <string name="SttgTVDataCleaningPeriod">Період очищення:</string>
+    <string name="Sttg1Day">1 день</string>
+    <string name="Sttg10Days">10 днів</string>
+    <string name="Sttg15Days">15 днів</string>
+    <string name="Sttg1Week">1 тиждень</string>
+    <string name="Sttg1Month">1 місяць</string>
+    <string name="Sttg6Months">6 місяців</string>
+    <string name="Sttg1Year">1 рік</string>
+    <string name="SttgTVDataArchivePropos">Or you can back up data for the period:</string>
+    <string name="SttgTVFreeSpaceDB">Database free space:</string>
+    <string name="SttgBTNClearDB">CLEAR DATA</string>
+    <string name="SttgTVInterfaceLNG">Language:</string>
+
+    //History Activity
+    <string name="HistoryActivName">Історія</string>
+    <string name="HistTab1Name">УСІ ДАНІ</string>
+    <string name="HistTab2Name">АРХІВ</string>
+    <string name="HistoryTablesHeader">Темп1 | Темп2 | Вол. | Освітл | Тиск | Висота</string>
+    <string name="HistoryDate">Дата:</string>
+    <string name="HistoryPeriod">Період:</string>
+
+    //MAIN ACTIVITY
+    <string name="MainTVTemp1">Температура 1:</string>
+    <string name="MainTVTemp2">Температура 2:</string>
+    <string name="MainTVHumidity">Вологість:</string>
+    <string name="MainTVLuminosity">Освітленість:</string>
+    <string name="MainTVPressure">Тиск:</string>
+
+    <string name="MainTVAltitude">Висота:</string>
+    <string name="MainTVDateTime">Дата:</string>
+    <string name="MainTVConnection">З\'єднано</string>
+    <string name="MainTVNOConnection">Немає з\'єднання</string>
+    <string name="MainBTNReceiveData">Отримати дані</string>
+    <string name="MainBTNStopReceiveData">Стоп</string>
+    <string name="MainTVDataUpdatePeriod">Період оновлення даних:</string>
+    <string name="MainMinutes">хв.</string>
+    <string name="MainToastNoInternet">Відсутнє зєднання з інтернетом!</string>
+</resources>

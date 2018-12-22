@@ -1,0 +1,2330 @@
+[
+    {
+        "outputFile": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-cs\\values-cs.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1246,
+                        "endColumn": 49,
+                        "endOffset": 1291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 46,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1297,
+                        "endColumn": 46,
+                        "endOffset": 1339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 52,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1192,
+                        "endColumn": 52,
+                        "endOffset": 1240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 45,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1440,
+                        "endColumn": 45,
+                        "endOffset": 1481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endColumn": 49,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1487,
+                        "endColumn": 49,
+                        "endOffset": 1532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 93,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1345,
+                        "endColumn": 93,
+                        "endOffset": 1434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 60,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2063,
+                        "endColumn": 60,
+                        "endOffset": 2119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 55,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2125,
+                        "endColumn": 55,
+                        "endOffset": 2176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 43,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2258,
+                        "endColumn": 43,
+                        "endOffset": 2297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 50,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1840,
+                        "endColumn": 50,
+                        "endOffset": 1886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 54,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1942,
+                        "endColumn": 54,
+                        "endOffset": 1992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 74,
+                    "endOffset": 732
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2182,
+                        "endColumn": 74,
+                        "endOffset": 2252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 737,
+                    "endColumn": 48,
+                    "endOffset": 781
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1892,
+                        "endColumn": 48,
+                        "endOffset": 1936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 786,
+                    "endColumn": 53,
+                    "endOffset": 835
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1673,
+                        "endColumn": 53,
+                        "endOffset": 1722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 840,
+                    "endColumn": 58,
+                    "endOffset": 894
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1728,
+                        "endColumn": 58,
+                        "endOffset": 1782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 899,
+                    "endColumn": 63,
+                    "endOffset": 958
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1998,
+                        "endColumn": 63,
+                        "endOffset": 2057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 963,
+                    "endColumn": 48,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1788,
+                        "endColumn": 48,
+                        "endOffset": 1832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 54,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1561,
+                        "endColumn": 54,
+                        "endOffset": 1611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endColumn": 54,
+                    "endOffset": 1117
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1617,
+                        "endColumn": 54,
+                        "endOffset": 1667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1122,
+                    "endColumn": 79,
+                    "endOffset": 1197
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2303,
+                        "endColumn": 79,
+                        "endOffset": 2378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1202,
+                    "endColumn": 46,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 602,
+                        "endColumn": 46,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endColumn": 48,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 48,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 46,
+                    "endOffset": 1340
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 46,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1345,
+                    "endColumn": 43,
+                    "endOffset": 1384
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endColumn": 43,
+                        "endOffset": 596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endColumn": 44,
+                    "endOffset": 1429
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 44,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1434,
+                    "endColumn": 45,
+                    "endOffset": 1475
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 45,
+                        "endOffset": 238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1480,
+                    "endColumn": 47,
+                    "endOffset": 1523
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 747,
+                        "endColumn": 47,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1528,
+                    "endColumn": 47,
+                    "endOffset": 1571
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endColumn": 47,
+                        "endOffset": 741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1576,
+                    "endColumn": 43,
+                    "endOffset": 1615
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 847,
+                        "endColumn": 43,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1620,
+                    "endColumn": 46,
+                    "endOffset": 1662
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 244,
+                        "endColumn": 46,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1667,
+                    "endColumn": 48,
+                    "endOffset": 1711
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 48,
+                        "endOffset": 434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1716,
+                    "endColumn": 46,
+                    "endOffset": 1758
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 46,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1763,
+                    "endColumn": 49,
+                    "endOffset": 1808
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 49,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1813,
+                    "endColumn": 50,
+                    "endOffset": 1859
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 81,
+                        "endColumn": 50,
+                        "endOffset": 127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1864,
+                    "endColumn": 53,
+                    "endOffset": 1913
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1053,
+                        "endColumn": 53,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1918,
+                    "endColumn": 91,
+                    "endOffset": 2005
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endColumn": 91,
+                        "endOffset": 979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2010,
+                    "endColumn": 69,
+                    "endOffset": 2075
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 69,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2080,
+                    "endColumn": 62,
+                    "endOffset": 2138
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 62,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2143,
+                    "endColumn": 66,
+                    "endOffset": 2205
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 985,
+                        "endColumn": 66,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2210,
+                    "endColumn": 56,
+                    "endOffset": 2262
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\Desktop\\MyApplication+Retrofit(18.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1108,
+                        "endColumn": 56,
+                        "endOffset": 1160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2267,
+                    "endColumn": 106,
+                    "endOffset": 2369
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 106,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2374,
+                    "endColumn": 108,
+                    "endOffset": 2478
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 108,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2483,
+                    "endColumn": 123,
+                    "endOffset": 2602
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 123,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2607,
+                    "endColumn": 101,
+                    "endOffset": 2704
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 101,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2709,
+                    "endColumn": 108,
+                    "endOffset": 2813
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 108,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2818,
+                    "endColumn": 85,
+                    "endOffset": 2899
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2904,
+                    "endColumn": 104,
+                    "endOffset": 3004
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 104,
+                        "endOffset": 792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3009,
+                    "endColumn": 116,
+                    "endOffset": 3121
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 797,
+                        "endColumn": 116,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3126,
+                    "endColumn": 80,
+                    "endOffset": 3202
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endColumn": 80,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3207,
+                    "endColumn": 80,
+                    "endOffset": 3283
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 80,
+                        "endOffset": 1071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3288,
+                    "endColumn": 83,
+                    "endOffset": 3367
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1076,
+                        "endColumn": 83,
+                        "endOffset": 1155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3372,
+                    "endColumn": 103,
+                    "endOffset": 3471
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1160,
+                        "endColumn": 103,
+                        "endOffset": 1259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3476,
+                    "endColumn": 108,
+                    "endOffset": 3580
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1264,
+                        "endColumn": 108,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3585,
+                    "endColumn": 98,
+                    "endOffset": 3679
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 98,
+                        "endOffset": 1467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3684,
+                    "endColumn": 105,
+                    "endOffset": 3785
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1472,
+                        "endColumn": 105,
+                        "endOffset": 1573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3790,
+                    "endColumn": 109,
+                    "endOffset": 3895
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1578,
+                        "endColumn": 109,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3900,
+                    "endColumn": 106,
+                    "endOffset": 4002
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 106,
+                        "endOffset": 1790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4007,
+                    "endColumn": 121,
+                    "endOffset": 4124
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1795,
+                        "endColumn": 121,
+                        "endOffset": 1912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4129,
+                    "endColumn": 97,
+                    "endOffset": 4222
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1917,
+                        "endColumn": 97,
+                        "endOffset": 2010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4227,
+                    "endColumn": 81,
+                    "endOffset": 4304
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2015,
+                        "endColumn": 81,
+                        "endOffset": 2092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4309,
+                    "endColumn": 100,
+                    "endOffset": 4405
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\c7f815fe242aa0d7bf794e34c875fb5dfc87eda1\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2097,
+                        "endColumn": 100,
+                        "endOffset": 2193
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-cs\\values-cs.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1246,
+                        "endColumn": 49,
+                        "endOffset": 1291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 46,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1297,
+                        "endColumn": 46,
+                        "endOffset": 1339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 52,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1192,
+                        "endColumn": 52,
+                        "endOffset": 1240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 45,
+                    "endOffset": 246
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1440,
+                        "endColumn": 45,
+                        "endOffset": 1481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 251,
+                    "endColumn": 49,
+                    "endOffset": 296
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1487,
+                        "endColumn": 49,
+                        "endOffset": 1532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 301,
+                    "endColumn": 93,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1345,
+                        "endColumn": 93,
+                        "endOffset": 1434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 60,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2063,
+                        "endColumn": 60,
+                        "endOffset": 2119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 55,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2125,
+                        "endColumn": 55,
+                        "endOffset": 2176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 43,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2258,
+                        "endColumn": 43,
+                        "endOffset": 2297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 50,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1840,
+                        "endColumn": 50,
+                        "endOffset": 1886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 54,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1942,
+                        "endColumn": 54,
+                        "endOffset": 1992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 74,
+                    "endOffset": 732
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2182,
+                        "endColumn": 74,
+                        "endOffset": 2252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 737,
+                    "endColumn": 48,
+                    "endOffset": 781
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1892,
+                        "endColumn": 48,
+                        "endOffset": 1936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 786,
+                    "endColumn": 53,
+                    "endOffset": 835
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1673,
+                        "endColumn": 53,
+                        "endOffset": 1722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 840,
+                    "endColumn": 58,
+                    "endOffset": 894
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1728,
+                        "endColumn": 58,
+                        "endOffset": 1782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 899,
+                    "endColumn": 63,
+                    "endOffset": 958
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1998,
+                        "endColumn": 63,
+                        "endOffset": 2057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 963,
+                    "endColumn": 48,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1788,
+                        "endColumn": 48,
+                        "endOffset": 1832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 54,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1561,
+                        "endColumn": 54,
+                        "endOffset": 1611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endColumn": 54,
+                    "endOffset": 1117
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1617,
+                        "endColumn": 54,
+                        "endOffset": 1667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1122,
+                    "endColumn": 79,
+                    "endOffset": 1197
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2303,
+                        "endColumn": 79,
+                        "endOffset": 2378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1202,
+                    "endColumn": 46,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 602,
+                        "endColumn": 46,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endColumn": 48,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 48,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 46,
+                    "endOffset": 1340
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 46,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1345,
+                    "endColumn": 43,
+                    "endOffset": 1384
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endColumn": 43,
+                        "endOffset": 596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endColumn": 44,
+                    "endOffset": 1429
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 44,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1434,
+                    "endColumn": 45,
+                    "endOffset": 1475
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 45,
+                        "endOffset": 238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1480,
+                    "endColumn": 47,
+                    "endOffset": 1523
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 747,
+                        "endColumn": 47,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1528,
+                    "endColumn": 47,
+                    "endOffset": 1571
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endColumn": 47,
+                        "endOffset": 741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1576,
+                    "endColumn": 43,
+                    "endOffset": 1615
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 847,
+                        "endColumn": 43,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1620,
+                    "endColumn": 46,
+                    "endOffset": 1662
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 244,
+                        "endColumn": 46,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1667,
+                    "endColumn": 48,
+                    "endOffset": 1711
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 48,
+                        "endOffset": 434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1716,
+                    "endColumn": 46,
+                    "endOffset": 1758
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 46,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1763,
+                    "endColumn": 49,
+                    "endOffset": 1808
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 49,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1813,
+                    "endColumn": 50,
+                    "endOffset": 1859
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 81,
+                        "endColumn": 50,
+                        "endOffset": 127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1864,
+                    "endColumn": 53,
+                    "endOffset": 1913
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1053,
+                        "endColumn": 53,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1918,
+                    "endColumn": 91,
+                    "endOffset": 2005
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endColumn": 91,
+                        "endOffset": 979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2010,
+                    "endColumn": 69,
+                    "endOffset": 2075
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 69,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2080,
+                    "endColumn": 62,
+                    "endOffset": 2138
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 62,
+                        "endOffset": 191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2143,
+                    "endColumn": 66,
+                    "endOffset": 2205
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 985,
+                        "endColumn": 66,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2210,
+                    "endColumn": 56,
+                    "endOffset": 2262
+                },
+                "from": {
+                    "file": "H:\\ANDROID\\MyApplication+Retrofit(20.4.17)\\app\\src\\main\\res\\values-cs\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1108,
+                        "endColumn": 56,
+                        "endOffset": 1160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2267,
+                    "endColumn": 106,
+                    "endOffset": 2369
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 106,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2374,
+                    "endColumn": 108,
+                    "endOffset": 2478
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 108,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2483,
+                    "endColumn": 123,
+                    "endOffset": 2602
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 123,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2607,
+                    "endColumn": 101,
+                    "endOffset": 2704
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 101,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2709,
+                    "endColumn": 108,
+                    "endOffset": 2813
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 108,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2818,
+                    "endColumn": 85,
+                    "endOffset": 2899
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 85,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2904,
+                    "endColumn": 104,
+                    "endOffset": 3004
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 104,
+                        "endOffset": 792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3009,
+                    "endColumn": 116,
+                    "endOffset": 3121
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 797,
+                        "endColumn": 116,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3126,
+                    "endColumn": 80,
+                    "endOffset": 3202
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endColumn": 80,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3207,
+                    "endColumn": 80,
+                    "endOffset": 3283
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 80,
+                        "endOffset": 1071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3288,
+                    "endColumn": 83,
+                    "endOffset": 3367
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1076,
+                        "endColumn": 83,
+                        "endOffset": 1155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3372,
+                    "endColumn": 103,
+                    "endOffset": 3471
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1160,
+                        "endColumn": 103,
+                        "endOffset": 1259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3476,
+                    "endColumn": 108,
+                    "endOffset": 3580
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1264,
+                        "endColumn": 108,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3585,
+                    "endColumn": 98,
+                    "endOffset": 3679
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 98,
+                        "endOffset": 1467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3684,
+                    "endColumn": 105,
+                    "endOffset": 3785
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1472,
+                        "endColumn": 105,
+                        "endOffset": 1573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3790,
+                    "endColumn": 109,
+                    "endOffset": 3895
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1578,
+                        "endColumn": 109,
+                        "endOffset": 1683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3900,
+                    "endColumn": 106,
+                    "endOffset": 4002
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1688,
+                        "endColumn": 106,
+                        "endOffset": 1790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4007,
+                    "endColumn": 121,
+                    "endOffset": 4124
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1795,
+                        "endColumn": 121,
+                        "endOffset": 1912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4129,
+                    "endColumn": 97,
+                    "endOffset": 4222
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1917,
+                        "endColumn": 97,
+                        "endOffset": 2010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4227,
+                    "endColumn": 81,
+                    "endOffset": 4304
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2015,
+                        "endColumn": 81,
+                        "endOffset": 2092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4309,
+                    "endColumn": 100,
+                    "endOffset": 4405
+                },
+                "from": {
+                    "file": "C:\\Users\\Dmytro\\.android\\build-cache\\0ea30d9f55eed11ab7cfa2c83aa3c0ff1a4f7112\\output\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2097,
+                        "endColumn": 100,
+                        "endOffset": 2193
+                    }
+                }
+            }
+        ]
+    }
+]
